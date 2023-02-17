@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72253447-0b2d-4c00-a413-149d23c5694d" name="Changes" comment="BQ-44">
-      <change afterPath="$PROJECT_DIR$/.idea/Exploratory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invalid login with incorrect password.py" beforeDir="false" afterPath="$PROJECT_DIR$/invalid login with incorrect password.py" afterDir="false" />
-    </list>
+    <list default="true" id="72253447-0b2d-4c00-a413-149d23c5694d" name="Changes" comment="BQ-43" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,8 +167,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test test test" />
     <MESSAGE value="BQ-42" />
-    <MESSAGE value="BQ-43" />
     <MESSAGE value="BQ-44" />
-    <option name="LAST_COMMIT_MESSAGE" value="BQ-44" />
+    <MESSAGE value="BQ-43" />
+    <option name="LAST_COMMIT_MESSAGE" value="BQ-43" />
   </component>
 </project>
