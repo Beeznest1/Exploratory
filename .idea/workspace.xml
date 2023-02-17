@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72253447-0b2d-4c00-a413-149d23c5694d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-02-17_10_27_a_m__[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023-02-17_10_27_a_m___Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/invalid login with incorrect password.py" beforeDir="false" afterPath="$PROJECT_DIR$/invalid login with incorrect passwordrev.py" afterDir="false" />
-    </list>
+    <list default="true" id="72253447-0b2d-4c00-a413-149d23c5694d" name="Changes" comment="BQ-44" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -216,7 +218,28 @@
       <option name="project" value="LOCAL" />
       <updated>1676673450948</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="BQ-44">
+      <created>1676673845225</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676673845225</updated>
+    </task>
+    <task id="LOCAL-00017" summary="none">
+      <created>1676673996435</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676673996435</updated>
+    </task>
+    <task id="LOCAL-00018" summary="BQ-44">
+      <created>1676674148705</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676674148705</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +259,8 @@
     <MESSAGE value="BQ-42" />
     <MESSAGE value="BQ-43" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="none" />
+    <MESSAGE value="&#10;BQ-44" />
     <MESSAGE value="BQ-44" />
     <option name="LAST_COMMIT_MESSAGE" value="BQ-44" />
   </component>
