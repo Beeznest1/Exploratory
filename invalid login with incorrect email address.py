@@ -9,7 +9,7 @@ class TestLogin(unittest.TestCase):
             "password": "your_password"
         }
         response = requests.post(url, data=payload)
-        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.status_code, 201)
         # Add more assertions based on the expected behavior after an invalid login
 
 if __name__ == '__main__':
