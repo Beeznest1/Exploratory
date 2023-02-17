@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72253447-0b2d-4c00-a413-149d23c5694d" name="Changes" comment="BQ-43" />
+    <list default="true" id="72253447-0b2d-4c00-a413-149d23c5694d" name="Changes" comment="BQ-44">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +151,49 @@
       <option name="project" value="LOCAL" />
       <updated>1676663826198</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="BQ-44">
+      <created>1676667417843</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667417844</updated>
+    </task>
+    <task id="LOCAL-00008" summary="BQ-44">
+      <created>1676667503317</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667503317</updated>
+    </task>
+    <task id="LOCAL-00009" summary="BQ-43">
+      <created>1676667512148</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667512148</updated>
+    </task>
+    <task id="LOCAL-00010" summary="BQ-44">
+      <created>1676667648966</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667648966</updated>
+    </task>
+    <task id="LOCAL-00011" summary="BQ-44">
+      <created>1676667672530</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667672530</updated>
+    </task>
+    <task id="LOCAL-00012" summary="BQ-44">
+      <created>1676667727784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676667727784</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,8 +211,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test test test" />
     <MESSAGE value="BQ-42" />
-    <MESSAGE value="BQ-44" />
     <MESSAGE value="BQ-43" />
-    <option name="LAST_COMMIT_MESSAGE" value="BQ-43" />
+    <MESSAGE value="BQ-44" />
+    <option name="LAST_COMMIT_MESSAGE" value="BQ-44" />
   </component>
 </project>
