@@ -58,3 +58,4 @@ Logout()
 first_tab()
 
 driver.quit()
+driver.close()
